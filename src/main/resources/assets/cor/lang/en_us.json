@@ -1,0 +1,9 @@
+{
+  "key.cor.connector": "Connector",
+  "gui.cor.title": "Connector Setting",
+  "gui.cor.in_server": "Enabled in server",
+  "gui.cor.left": "Left click",
+  "gui.cor.sleep": "click delay(ms)",
+  "gui.cor.sleep_skew": "Click delay offset(ms,+/-)",
+  "chat.cor.waring": "Connector has been disabled on the server."
+}

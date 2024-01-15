@@ -1,0 +1,9 @@
+{
+  "key.cor.connector": "连点器",
+  "gui.cor.title": "连点器设置",
+  "gui.cor.in_server": "服务器上启用",
+  "gui.cor.left": "左键点击",
+  "gui.cor.sleep": "点击延迟(ms)",
+  "gui.cor.sleep_skew": "点击延迟偏移(ms,+/-)",
+  "chat.cor.waring": "连点器已在服务器上关闭。"
+}
